@@ -1,0 +1,10 @@
+.dark{
+    background-color: black;
+    transition: 0.8s;
+}
+#count{
+    color: red;
+}
+body{
+    transition: 0.8s;
+}
